@@ -1,0 +1,41 @@
+body{
+    background-color: orchid;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-size: 60px;
+}
+h1{
+  font-size: 600px;
+}
+img{
+   width: 500px;
+}
+h1{
+    font-size: 50px;
+}
+li{
+    font-size: 35px;
+}
+#lista{
+    text-align: left;
+}
+
+#lista img{
+    width: 196px;
+}
+    img{inline-size: auto;
+    display: block;
+margin: auto;
+border-radius: 10%;}
+
+li{text-align: center;}
+ 
+h4{
+    font-size: 60px;
+}
+h1{text-align: center;}
+p{
+    font-size: 35px;
+}
